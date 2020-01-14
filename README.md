@@ -8,7 +8,7 @@ Database - MySQl
 Server- Apache -xampp
 
 ditest dengan tahapan sbb:
-1. upload semua file ke htdocs di xampp
+1. download dan extract customer.com.rar ke htdocs di xampp
 2. upload database test ke mysql xampp via phpmyadmin
 3. atur config ci , db dan port agar bisa buka url customer.com
 4. form pertama atau index untuk input data customer
